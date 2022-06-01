@@ -19,7 +19,7 @@
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Thị giác máy tính
 * **Mã môn học**: CS231
-* **Lớp học**: CS106.M21
+* **Lớp học**: CS231.M21
 * **Ngày bắt đầu**: 21/02/2022
 * **Ngày kết thúc**: 11/06/2022
 * **Năm học**: 2021-2022
