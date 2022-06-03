@@ -49,5 +49,5 @@
 | 4      | 20520309      | Lại Chí Thiện          |https://github.com/laichithien                        |20520309@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-1. Tên đồ án: Removal object in Seam Carving
+1. Tên đồ án: Removal object using Seam Carving
 
