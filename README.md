@@ -50,5 +50,9 @@
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
 1. Tên đồ án: XÓA ĐỐI TƯỢNG SỬ DỤNG SEAM CARVING - Object Removal using Seam Carving
+## DEMO ĐỒ ÁN
+
+https://user-images.githubusercontent.com/74360292/183123960-90be33ce-7623-4ad9-9d3d-b8f54177c456.mp4
+
 
 
